@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/framMC/yuna/refs/heads/main/asset.lua"))()
 
 local InfiniteJump = true
 
