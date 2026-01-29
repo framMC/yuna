@@ -1,6 +1,5 @@
--- =========================
--- INFINITE JUMP
--- =========================
+loadstring(game:HttpGet("https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua"))()
+
 local InfiniteJump = true
 
 game:GetService("UserInputService").JumpRequest:Connect(function()
